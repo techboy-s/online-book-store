@@ -17,6 +17,16 @@ Manage User– The admin can manage the user’s account. Admin can add, update 
 Login and Logout – By default one of the security features of this system is the secure login and logout system.
 
 
+Customer Features of Online Book Store  Project in Django
+Login Page – Customer enter their website credentials on this page to gain access in order to log in.
+Register Page– The page where new customer created their login credentials for the website.
+Home Page– When customer visit the website, this is the system’s default page. This page shows the books for sale in the store, or by entering a keyword in the search box above the books.
+Book View Page – The page on which the product’s specific information is shown, as well as the page on which the customer adds the product to his or her cart.
+Cart List Page– The page that lists the items that customer have chosen. This is the page where the customer can complete the order checkout process.
+My Order Page – The page that lists the customer’s orders.
+bcash and Credit Card Payments – This Online Book Store  Project in Django in Django has a payment method that uses Paypal and Credit Card Payments.
+
+
 </br>
 
 ![screenshot_2019-02-18 online book store 2](https://user-images.githubusercontent.com/28836413/52928808-cddf6e00-336b-11e9-9db9-58cb0fc0f0e5.png)
