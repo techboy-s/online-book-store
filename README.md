@@ -7,7 +7,8 @@
     pip install xhtml2pdf
 
 ```
-Admin Features of Online Book Store  Project in Django
+##Admin Features of Online Book Store
+Project in Django
 Dashboard – For the admin dashboard, you will be able to all the basic access in the whole system. Such as summary of products, orders, and the categories.
 Manage Books– The admin has access to the books management information system. He can add, update and delete the books.
 Manage Categories – The page where the admin can add, edit and delete categories information.
